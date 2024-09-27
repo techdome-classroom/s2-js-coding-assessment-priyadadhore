@@ -21,4 +21,3 @@ var isValid = function(s) {
 };
 
 
-module.exports={isValid}
